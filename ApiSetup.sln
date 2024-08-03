@@ -15,7 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{FFB468
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{CD5EC9A6-8F5C-4D67-9D82-D79C304A5B58}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interface", "Interface", "{370F8D5B-519D-43F3-836B-A97005D14D75}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{370F8D5B-519D-43F3-836B-A97005D14D75}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{4F8EBC71-5C4D-4593-87D3-B93FF53B6586}"
 EndProject
@@ -27,7 +27,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiSetup.Domain", "..\ApiSe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Setup.Application", "..\Api.Setup.Application\Api.Setup.Application.csproj", "{D65400DD-6C70-4B09-9E2E-ED5CD2925881}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "..\Interface\Interface.csproj", "{EBBA0330-9281-4363-925F-53FF0A64C35C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "..\Interface\Infrastructure.csproj", "{EBBA0330-9281-4363-925F-53FF0A64C35C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "..\Presentation\Presentation.csproj", "{8CC62A81-0D6A-4393-A1C7-C1BC7A3E6609}"
 EndProject
